@@ -18,3 +18,4 @@ public class Consultas implements EntityManagerProvider {
     }  
     
 }
+//
